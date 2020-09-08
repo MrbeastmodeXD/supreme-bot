@@ -1,4 +1,4 @@
-licensekey = '',
+licensekey = ''
 info = {
         'name': 'Test Profile',
         'email': 'testguy123@gmail.com',
