@@ -1,8 +1,8 @@
-urllib3==1.25.10
-virtualenv==20.0.31
-webdriver-manager==3.2.2
-selenium==3.141.0
-requests==2.24.0
-licensing==0.23
-discord-webhook==0.9.0
-captcha-harvester==2.1.1
+urllib3
+virtualenv
+webdriver-manager
+selenium
+requests
+licensing
+discord-webhook
+captcha-harvester
