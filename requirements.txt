@@ -4,5 +4,5 @@ webdriver-manager==3.2.2
 selenium==3.141.0
 requests==2.24.0
 licensing==0.23
-discord-webhook
+discord-webhook==0.9.0
 captcha-harvester
