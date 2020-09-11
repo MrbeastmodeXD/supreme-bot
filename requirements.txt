@@ -1,4 +1,4 @@
-urllib3
+urllib3==1.25.10
 virtualenv
 webdriver-manager
 selenium
