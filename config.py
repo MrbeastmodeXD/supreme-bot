@@ -13,5 +13,8 @@ info = {
         'city': 'Beverly Hills',
         'gmail_login': '',
         'gmail_password': '',
+        'proxy': '', 
+                                  # FOR USER:PASS, ENTER ONLY IP:PORT SECTION! IT WILL PROMPT USER:PASS.
+                                  # BE SURE TO WRITE DOWN CREDENTIALS IF USING USER:PASS
 }
         
